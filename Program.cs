@@ -2,9 +2,9 @@
 
 namespace Chapter01
 {
-    ///Test
-    ///from P' Tonn
-    ///
+    /// <summary>
+    /// This Chapter will help understand the skeleton of C# Template.
+    /// </summary>
 
 
     class Program
@@ -12,9 +12,7 @@ namespace Chapter01
 
         static void Main(string[] args)
         {
-            int a, b, c;
-
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hi");
         }
     }
 }
