@@ -3,7 +3,7 @@
 namespace Chapter01
 {
     ///Test
-    ///
+    ///from P' Tonn
     ///
 
 
@@ -12,7 +12,6 @@ namespace Chapter01
 
         static void Main(string[] args)
         {
-            int a = 20;
             Console.WriteLine("Hello World!");
         }
     }
