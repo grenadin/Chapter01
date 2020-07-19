@@ -12,7 +12,8 @@ namespace Chapter01
 
         static void Main(string[] args)
         {
-            int a = 9;
+            int a, b, c;
+
             Console.WriteLine("Hello World!");
         }
     }
