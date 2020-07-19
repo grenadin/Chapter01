@@ -12,6 +12,8 @@ namespace Chapter01
 
         static void Main(string[] args)
         {
+
+            int number = 20;
             Console.WriteLine("Hello World!");
         }
     }
